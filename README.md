@@ -88,8 +88,6 @@ https://www.orca.partners <br/>
 - `Yup`과 `Formik` 라이브러리를 이용하여 유효성 검사 및 에러 메시지 표시
 - `@mui/material` 라이브러리의 `createTheme()` 및 `ThemeProvider`를 이용하여 커스텀
 
-#### 로직
-
 <p align="center">
   <img src="./screenshots/5.png" width="79%" align="center"/>
   <img src="./screenshots/6.png" width="20%" align="center"/>
@@ -219,7 +217,9 @@ https://www.orca.partners <br/>
 
 ### ORCA 웹앱 -ERP 서비스 <br/>
 
-https://www.orca.partners <br/>
+<a href="https://m-erp.orca.partners">웹</a> <br/>
+<a href="https://play.google.com/store/apps/details?id=com.teameverywhere.orcaerp&pcampaignid=web_share">안드로이드 앱</a>
+<br/>
 
 - 사용 기술 스택: React.js, Next.js, TypeScript <br/>
 - 사용 라이브러리: react-redux, emotion, next Image, axios
