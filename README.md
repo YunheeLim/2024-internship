@@ -153,7 +153,7 @@ https://www.orca.partners <br/>
 - `@mui/material` 라이브러리의 `createTheme()` 및 `ThemeProvider`를 이용하여 커스텀
 - 이외에도 `sx`, `styled-componenet` 등 다양한 방법으로 컴포넌트 커스텀
 
-<img src="./screenshots/11.png" />
+<img src="./screenshots/46.png" />
 
 #### 서비스 관리 페이지
 
@@ -171,7 +171,7 @@ https://www.orca.partners <br/>
 
 <p align="center">
   <img src="./screenshots/42.png" width="49%" align="center"/>
-  <img src="./screenshots/43.png" width="49%" align="center"/>
+  <img src="./screenshots/47.png" width="49%" align="center"/>
 </p>
 
 #### 결제 페이지
