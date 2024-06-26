@@ -15,7 +15,7 @@ https://www.orca.partners <br/>
 - 사용 기술 스택: React.js, Next.js, JavaScript, TypeScript <br/>
 - 사용 라이브러리: material-ui, styled-components, chart.js, chart.js-2, next Image, mediaQuery, axios
 
-#### 작업 페이지 목록
+### 작업 페이지 목록
 
 <p align="center">
   <img src="./screenshots/1.png" width="70%" align="center"/>
