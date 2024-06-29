@@ -388,3 +388,7 @@ https://www.orca.partners <br/>
 - 작업지시량 배분 함수 제작하여 균등하게 배분
 - `useState()`로 일자별 담당자 / 일괄 담당자 각각 상태관리
 - 수정된 임시저장 데이터 `POST` API로 전달
+
+## 기관 피드백
+
+  <img src="./screenshots/feedback.png"/>
