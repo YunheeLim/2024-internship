@@ -103,12 +103,13 @@ https://www.orca.partners <br/>
 - chart.js-2 라이브러리를 활용하여 tooltip, legend, label, line 등 커스텀
 - 더보기 버튼 클릭 시 더 많은 제조업 분야의 데이터 확인 가능
 - 외부 클릭 시 닫히는 모달 제작
+- CSS의 Vendor Prefix를 사용하여 크로스브라우징 작업
 - 다양한 디바이스 크기에 맞춘 반응형 페이지로 제작
 
 #### 로직
 
 - `useState`를 사용하여 제조업 부문 탭 상태 관리
-- `useLayoutEffect`를 사용하여 DOM 렌더링 후 상태를 조작하여 화면 깜빡거림을 제거함으로써 사용자 UX 개선
+- `useLayoutEffect`를 사용하여 DOM 렌더링 이전에 컴포넌트 크기를 계산함으로써 사용자 UX 개선
 - `@media` 쿼리를 사용하여 모바일 사이즈에서의 컴포넌트 재배치 및 조정
 
 <p align="center">
@@ -338,6 +339,7 @@ https://www.orca.partners <br/>
 
 #### 로직
 
+- `useCallback()`를 사용한 함수 재생성 방지로 불필요한 렌더링 제거
 - `GET` API로 생산 정보 불러오기
 - API query에 검색값 전달하여 검색 구현
 - 선택된 데이터의 `index`를 받아온 후 해당 생산정보만 필터링
